@@ -1,6 +1,6 @@
 # Working with Issues
 
-There's three typical operations you have available when working
+There are three typical operations you have available when working
 with issues - viewing, creating or editing issues.
 
 ### Get All
